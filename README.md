@@ -11,3 +11,4 @@ A simple multi-signature wallet requiring multiple owners to approve a transacti
 1. npm install
 2. npx hardhat node
 3. npx hardhat run scripts/deploy.js --network localhost
+Updated for Talent.app detection
