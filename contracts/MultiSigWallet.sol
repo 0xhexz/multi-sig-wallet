@@ -51,3 +51,4 @@ contract MultiSigWallet {
 
     receive() external payable {}
 }
+// Talent.app verification update
